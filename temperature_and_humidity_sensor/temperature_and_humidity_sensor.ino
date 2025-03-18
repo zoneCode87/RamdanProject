@@ -3,8 +3,12 @@
 // URL:https://www.instagram.com/reel/DG59fcvqDUz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 // Don't forget to like and comment! Thanks :)
 
-#include <DHT11.h>
+//-------------------------------------------------------------------------------------------------
+//  #install library # 
+//  https://github.com/adafruit/DHT-sensor-library.git
+//-------------------------------------------------------------------------------------------------
 
+#include <DHT11.h>
 // Define the data pin where DHT11 is connected
 #define DHT_data_pin 2
 

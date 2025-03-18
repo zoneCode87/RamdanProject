@@ -3,6 +3,9 @@
 // URL: https://www.instagram.com/reel/DHG08eWqLVk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 // Don't forget to like and comment! Thanks :)
 
+// install library   
+// URL : https://github.com/Arduino-IRremote/Arduino-IRremote.git
+
 #define DECODE_NEC        
 #include "PinDefinitionsAndMore.h"
 #include <IRremote.hpp> 
@@ -43,7 +46,7 @@ void loop() {
   // Check if the IR receiver has received a signal
   if (IrReceiver.decode()) {
     IrReceiver.resume();  // Prepare for the next IR signal
-    int Read_IR = IrReceiver.decodedIRData.comma
+    int Read_IR = IrReceiver.decodedIRData.command;
     
     // Execute actions based on the received IR command
     switch(Read_IR) {
