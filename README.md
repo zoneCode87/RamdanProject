@@ -1,4 +1,7 @@
 Ramadan Project Series: Sensor Explanations
+
+
+
 Happy Ramadan! 🌙
 I’ve decided to start a project series during Ramadan to explain how sensors work and how to use them in practical projects. Hopefully, this series will be both informative and enjoyable at the same time.
 
