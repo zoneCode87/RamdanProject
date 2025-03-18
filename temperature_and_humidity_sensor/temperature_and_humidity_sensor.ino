@@ -2,7 +2,7 @@
 // For more details, you can watch this Instagram reel: 
 // URL:https://www.instagram.com/reel/DG59fcvqDUz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 // Don't forget to like and comment! Thanks :)
-
+// -- 
 //-------------------------------------------------------------------------------------------------
 //  #install library # 
 //  https://github.com/adafruit/DHT-sensor-library.git

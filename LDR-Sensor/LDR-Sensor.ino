@@ -1,7 +1,9 @@
+//---------------------------------------------
 // This circuit controls an LED based on the light intensity detected by an LDR.
 // For more details, you can watch this Instagram reel: 
 // URL: https://www.instagram.com/reel/DGv2zcjutrb/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 // Don't forget to like and comment! Thanks :)
+// --------------------------------------------
 
 #define ldrPin A0   
 #define ledPin 7   
